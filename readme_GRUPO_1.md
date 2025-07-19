@@ -7,3 +7,4 @@ Escaneo de puertos con nmap.
 Extracción de metadata.
 Cifrado.
 Envío de correos.
+Este script funciona mediante argumentos, solo ciertos script requieren de la interacción del usuario, a continuacion se muestra cómo lo puedes obtener.
