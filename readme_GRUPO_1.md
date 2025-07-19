@@ -7,3 +7,4 @@ Escaneo de puertos con nmap.
 Extracción de metadata.
 Cifrado.
 Envío de correos.
+Cambio OS
