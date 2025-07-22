@@ -23,7 +23,7 @@ Este proyecto incorpora herramientas consideradas como apoyo en las prácticas p
 
 ### Uilidad en Ciberseguridad Ofensiva y defensiva
 
-Este repositorio nos permite trabajar con herramientas que llevan a cabo variaas etapas del ciclo de seguridad ofensiva: reconocimiento, explotación y generación de reportes, este flijo de alinea con las fases estándar de PTES (Penetration Testing Execution Standard).
+Este repositorio nos permite trabajar con herramientas que llevan a cabo varias etapas del ciclo de seguridad ofensiva: reconocimiento, explotación y generación de reportes, este flijo de alinea con las fases estándar de PTES (Penetration Testing Execution Standard).
 
 Con herramientas como WebScraping con BeautifulSoup y Shodan se obtienen datos públicos o expuesto del objetivo sin interactuar directamente con él permitiendonos ejecutar la etapa de reconocimiento. Además, NMap nos permite identificar puertos abiertos, protocolos y sistemas operativos activos interactuando directamente con el objetivo.
 
@@ -100,3 +100,10 @@ Casos de uso:
 - Escalada de privilegios: Alterar permisos para acceder a recursos restringidos (ej.: modificar /etc/sudoers temporalmente).
 - Evasióon de controles: Deshabilitar logs o servicios de monitoreo durante pruebas de penetración.
 - Hardening automatizado: Aplicar configuraciones seguras basadas en benchmarks (CIS, NIST).
+
+### Referencias
+* Scraping the Web for Public Health Gains: Ethical Considerations from a ‘Big Data’ Research Project on HIV and Incarceration, https://pmc.ncbi.nlm.nih.gov/articles/PMC7392638/?utm_source=chatgpt.com
+* Guía de referencia de Nmap, https://nmap.org/man/es/index.html
+* What is Shodan, https://help.shodan.io/the-basics/what-is-shodan
+* ¿Qué es OSINT?, https://www.ibm.com/mx-es/topics/osint
+* Penetration Testing Execution Standard (PTES), https://www.geeksforgeeks.org/software-engineering/penetration-testing-execution-standard-ptes/
